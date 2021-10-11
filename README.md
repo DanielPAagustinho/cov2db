@@ -16,7 +16,10 @@ VCF files storing low frequency info for SARS-CoV-2 are not widely available due
 [VAPr](https://github.com/ucsd-ccbb/VAPr/) is an excellent mongodb based database for storing variant info. USCS SARS-CoV-2 genome broswers also provides visualization of intrahost variants [here](https://genome.ucsc.edu/cgi-bin/hgTracks?db=wuhCor1&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=NC_045512v2%3A1%2D29903&hgsid=1183075721_4GlEuE8o51gGamZyAQfT5UgwpPhq). 
 
 ## Workflow figure
-![covid db workflow figure](https://github.com/collaborativebioinformatics/covid_freq/blob/main/coviddb_workflow.png)
+![covid_freq-Group6 (1)](https://user-images.githubusercontent.com/72709799/136824546-1cd563b3-163d-4695-8bcd-5e8c67e6b674.jpeg)
+
+![ZomboMeme 11102021112802](https://user-images.githubusercontent.com/72709799/136824650-2416ecb7-78a4-4a2a-b09c-bb085e8cc634.jpg)
+
 
 ------
 ## cov2db will contain the following information:
